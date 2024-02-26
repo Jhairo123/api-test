@@ -1,9 +1,9 @@
 import reactLogo from "./assets/react.svg";
 import "./App.css";
-import Menu from "./Components/Menu";
-import ListaBodega from "./Components/Bodegas/ListaBodega";
-import CrearBodega from "./Components/Bodegas/CrearBodega";
-import BodegaPorId from "./Components/Bodegas/BodegaPorId";
+import Menu from "./Componentes/Menu";
+import ListaBodega from "./Componentes/Bodegas/ListaBodega";
+import CrearBodega from "./Componentes/Bodegas/CrearBodega";
+import BodegaPorId from "./Componentes/Bodegas/BodegaPorId";
 import { Route, Routes } from "react-router-dom";
 
 function App() {
